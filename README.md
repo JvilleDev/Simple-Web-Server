@@ -3,8 +3,7 @@
 
 Antes de comenzar, clona el repositorio:
 
-``git clone https://github.com/Jvillepb/Simple-Web-Server.git``
-
+``git clone https://github.com/JvilleDev/Simple-Web-Server.git``
 Instala las dependencias globalmente:
 
 ``npm i -g``
@@ -24,7 +23,7 @@ En los Releases se encuentra la versión en ejecutable, por si no quieres usar N
 
 Before you begin, clone the repository:
 
-``git clone https://github.com/Jvillepb/Simple-Web-Server.git``.
+``git clone https://github.com/JvilleDev/Simple-Web-Server.git``.
 
 Install the dependencies globally:
 
