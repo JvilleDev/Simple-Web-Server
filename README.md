@@ -4,6 +4,7 @@
 Antes de comenzar, clona el repositorio:
 
 ``git clone https://github.com/JvilleDev/Simple-Web-Server.git``
+
 Instala las dependencias globalmente:
 
 ``npm i -g``
